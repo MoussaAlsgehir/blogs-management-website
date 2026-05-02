@@ -28,12 +28,10 @@
 
 1. **نسخ المستودع (Clone the Repo):**
  ```  
-bash
    git clone https://github.com/MoussaAlsgehir/blogs-management-website.git
 ```
  3. **تحميل المكتبات (Install Dependencies):**
    ```
-bash
 composer install
 npm install
 rpm run dev or run build 
@@ -43,7 +41,6 @@ rpm run dev or run build
    * قم بنسخ ملف .env.example إلى .env.
    * قم بتحديث بيانات قاعدة البيانات.
    ```
-bash
    php artisan key:generate
 ```
 
@@ -53,14 +50,12 @@ bash
   
  4. **تهجير قاعدة البيانات (Database Migration):**
    ```
-bash
    php artisan migrate
    ```
    
   
  5. **تشغيل المشروع (Run Server):**
    ```
-bash
    php artisan serve
    ```
    
