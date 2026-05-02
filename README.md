@@ -68,4 +68,4 @@ rpm run dev or run build
  * subscribers: لتخزين القائمة البريدية
  * contacts: لاستقبال الرسائل
 **تم التطوير بواسطة:** [Moussa Alsgehir]
-```
+
