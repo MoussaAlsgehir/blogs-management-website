@@ -29,7 +29,7 @@
 1. **نسخ المستودع (Clone the Repo):**
  ```  
 bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://giتحميل المكتبات (Install Dependencies):
+   git clone https://github.com/MoussaAlsgehir/blogs-management-website.git
 ```
  3. **تحميل المكتبات (Install Dependencies):**
    ```
